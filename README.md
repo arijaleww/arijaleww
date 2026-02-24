@@ -68,8 +68,6 @@ I'm a **UX Designer** passionate about crafting intuitive and delightful digital
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arijalux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=A78BFA&text_color=C9D1D9&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijalux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" height="165" />
 </div>
 
 <div align="center">
